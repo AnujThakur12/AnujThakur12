@@ -24,7 +24,11 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Anuj+Kumar+Thakur;Computer+Engineering+Student;Full-Stack+Developer)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=ANUJ%20KUMAR%20THAKUR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=brightgreen&style=flat)
