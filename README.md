@@ -30,5 +30,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&text=ANUJ%20KUMAR%20THAKUR&fontSize=55&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=12,20,24,30"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&pause=1000&color=00FFFF&center=true&width=800&lines=Computer+Engineering+Student;Full-Stack+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Building+Real+World+Projects"/>
+</p>
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=brightgreen&style=flat)
