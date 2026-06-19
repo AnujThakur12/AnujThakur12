@@ -26,4 +26,6 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=brightgreen&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnujThakur12&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
