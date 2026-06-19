@@ -26,6 +26,5 @@
 
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnujThakur12&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+![Followers](https://img.shields.io/github/followers/AnujThakur12?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/AnujThakur12?style=for-the-badge)
