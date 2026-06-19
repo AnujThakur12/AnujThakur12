@@ -25,8 +25,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
----
-![](https://visitcount.itsvg.in/api?id=AnujThakur12&icon=5&color=12)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AnujThakur12&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![Visitor Count](https://count.getloli.com/get/@AnujThakur12?theme=rule34)
