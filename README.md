@@ -26,4 +26,7 @@
 
 
 ---
-![](https://visitcount.itsvg.in/api?id=AnujThakur12&icon=5&color=6)
+![](https://visitcount.itsvg.in/api?id=AnujThakur12&icon=5&color=12)
+
+
+![Visitor Count](https://count.getloli.com/get/@AnujThakur12?theme=rule34)
