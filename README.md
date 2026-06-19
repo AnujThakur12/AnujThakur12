@@ -26,4 +26,4 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=AnujThakur12&label=VISITORS&color=blueviolet&style=for-the-badge)
+https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=brightgreen&style=flat
