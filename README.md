@@ -26,5 +26,4 @@
 
 
 ---
-![Followers](https://img.shields.io/github/followers/AnujThakur12?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/AnujThakur12?style=for-the-badge)
+![](https://visitcount.itsvg.in/api?id=AnujThakur12&icon=5&color=6)
