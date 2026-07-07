@@ -25,8 +25,5 @@
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
-# Profile Views 👀:
-
-![Visitor Count](https://count.getloli.com/get/@AnujThakur12?theme=rule34)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=brightgreen&style=flat)
