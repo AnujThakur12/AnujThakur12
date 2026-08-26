@@ -51,12 +51,6 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 
 ---
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AnujThakur12/AnujThakur12/main/profile-summary-card-output/2077/3-stats.svg"
-    alt="GitHub Stats"
-  />
-</p>
 
 <p align="center">
   <img
