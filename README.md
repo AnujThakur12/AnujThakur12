@@ -53,10 +53,11 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AnujThakur12&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true"
-    height="165"
+    src="https://raw.githubusercontent.com/AnujThakur12/AnujThakur12/main/profile-summary-card-output/2077/3-stats.svg"
+    alt="GitHub Stats"
   />
 </p>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=AnujThakur12&background=000000&border=000000&stroke=3DDCDE&ring=2DD4D8&fire=2DD4D8&currStreakNum=FF4FA3&sideNums=36D9E0&currStreakLabel=FF4FA3&sideLabels=36D9E0&dates=9CA3AF"
