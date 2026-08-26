@@ -61,12 +61,7 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 
 ## 👀 Profile Views
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=39ff14&style=flat"
-    alt="Profile Views"
-  />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=000000&style=flat-square)
 
 ---
 
