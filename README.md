@@ -1,8 +1,16 @@
-# Hey, I'm Anuj Kumar Thakur 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1200&color=36D9E0&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Anuj+Kumar+Thakur" alt="Hi, I am Anuj Kumar Thakur" />
+</p>
 
-### 💻 Computer Engineering Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9CA3AF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full-Stack+Developer;Always+Learning%2C+Always+Building" alt="Computer Engineering Student" />
+</p>
 
-I'm a Computer Engineering student passionate about building real-world software and turning ideas into useful projects. I enjoy learning new technologies, solving problems, and continuously improving my development skills.
+---
+
+## 👋 About Me
+
+I'm a Computer Engineering student who enjoys learning new technologies, solving problems, and continuously improving my development skills.
 
 Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineering**.
 
@@ -16,10 +24,20 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anujkumarthakur.com.np)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/anuj.thakur.999801)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-thakur-1883683b6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.anujkumarthakur@gmail.com)
+<p align="center">
+  <a href="https://anujkumarthakur.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/anujthakur.to">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anuj-thakur-1883683b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact.anujkumarthakur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -27,42 +45,40 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 
 ### 👨‍💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+</p>
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
 
 ### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,cloudflare,render,vercel" />
+</p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AnujThakur12&background=000000&border=000000&stroke=3DDCDE&ring=2DD4D8&fire=2DD4D8&currStreakNum=FF4FA3&sideNums=36D9E0&currStreakLabel=FF4FA3&sideLabels=36D9E0&dates=9CA3AF"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=AnujThakur12&background=000000&border=000000&stroke=36D9E0&ring=36D9E0&fire=36D9E0&currStreakNum=FF4FA3&sideNums=36D9E0&currStreakLabel=FF4FA3&sideLabels=36D9E0&dates=9CA3AF" alt="GitHub Contribution Streak" />
 </p>
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=000000&style=flat-square)
 
 ---
 
-### ⚡ Keep Learning. Keep Building. Keep Improving.
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=36D9E0&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=22&pause=3000&color=36D9E0&center=true&vCenter=true&width=550&lines=Keep+Learning.+Keep+Building.+Keep+Improving." alt="Keep Learning. Keep Building. Keep Improving." />
+</p>
