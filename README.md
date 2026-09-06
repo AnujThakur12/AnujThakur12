@@ -69,13 +69,6 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
   <img src="https://streak-stats.demolab.com?user=anujthakur-io&background=000000&border=000000&stroke=36D9E0&ring=36D9E0&fire=36D9E0&currStreakNum=FF4FA3&sideNums=36D9E0&currStreakLabel=FF4FA3&sideLabels=36D9E0&dates=9CA3AF" alt="GitHub Contribution Streak" />
 </p>
 
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujthakur-io&label=Profile%20Views&color=36D9E0&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
