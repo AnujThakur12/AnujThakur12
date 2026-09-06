@@ -31,7 +31,7 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
   <a href="https://facebook.com/anujthakur.to">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/anuj-thakur-1883683b6">
+  <a href="https://linkedin.com/in/anujthakur-io">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact.anujkumarthakur@gmail.com">
@@ -66,7 +66,7 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnujThakur12&background=000000&border=000000&stroke=36D9E0&ring=36D9E0&fire=36D9E0&currStreakNum=FF4FA3&sideNums=36D9E0&currStreakLabel=FF4FA3&sideLabels=36D9E0&dates=9CA3AF" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=anujthakur-io&background=000000&border=000000&stroke=36D9E0&ring=36D9E0&fire=36D9E0&currStreakNum=FF4FA3&sideNums=36D9E0&currStreakLabel=FF4FA3&sideLabels=36D9E0&dates=9CA3AF" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Currently, I'm focused on **DSA, Full-Stack Development, and Computer Engineerin
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnujThakur12&label=Profile%20Views&color=36D9E0&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anujthakur-io&label=Profile%20Views&color=36D9E0&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
